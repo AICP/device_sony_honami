@@ -15,7 +15,7 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "AICP/android_device_sony_rhine-common",
+    "repository": "AICP/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "branch":      "kitkat"
   },
