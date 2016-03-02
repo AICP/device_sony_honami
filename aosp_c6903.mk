@@ -19,7 +19,7 @@ $(call inherit-product, device/sony/honami/device.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-PRODUCT_NAME := aosp_c6903
+PRODUCT_NAME := aicp_c6903
 PRODUCT_DEVICE := honami
 PRODUCT_MODEL := Xperia Z1 (AOSP)
 PRODUCT_BRAND := Sony
